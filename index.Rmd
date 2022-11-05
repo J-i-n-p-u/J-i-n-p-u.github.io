@@ -2,21 +2,38 @@
 # title: "Jinpu"
 # author: "Jinpu"
 # date: '2022-11-05'
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
 ```
 
+<!-- [INSPIRATION DAY]{style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;"} -->
+
+```{=html}
 <img src="images/cover_with_blank.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+```
+## About {style="color: gray"}
 
+I am a graduate student of the [Sustainable Design and Construction Program](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) Civil and Environmental Engineering, Stanford University (2020 - 2022). My research interests lie in applying data-driven methods and Artificial Intelligence (AI) to Architecture Engineering and Construction (AEC) to help us create smart and sustainable infrastructures and living environments.
 
-## About
-I am a graduate student of the Sustainable Design and Construction Program Civil and Environmental Engineering, Stanford University (2020 - 2022). I will finish my MS. under the guidance of Professor Ram Rajagopal in 2022.
+## Education Experience {style="color: gray"}
+2020 - 2022 M.S. in Sustainable Design and Construction Program in Civil and Environmental Engineering Department<br>
+Stanford University<br>
 
+2019 - 2020 Exchange Student in GeoSystems Engineering Program in Civil and Environmental Engineering Department<br>
+University of California, Berkeley (One Year)<br>
+
+2019 B.E. in Civil and Environmental Engineering<br>
+Tongji University
 
 
 

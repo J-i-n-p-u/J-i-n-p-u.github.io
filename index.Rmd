@@ -5,7 +5,7 @@
 output: 
   html_document:
     toc: true
-    toc_float: 
+    toc_float:
       collapsed: false
       smooth_scroll: false
 ---
@@ -14,26 +14,29 @@ output:
 knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
 ```
 
-<!-- [INSPIRATION DAY]{style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;"} -->
-
 ```{=html}
 <img src="images/cover_with_blank.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 ```
-## About {style="color: gray"}
+## About
 
 I am a graduate student of the [Sustainable Design and Construction Program](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) Civil and Environmental Engineering, Stanford University (2020 - 2022). My research interests lie in applying data-driven methods and Artificial Intelligence (AI) to Architecture Engineering and Construction (AEC) to help us create smart and sustainable infrastructures and living environments.
 
-## Education Experience {style="color: gray"}
-2020 - 2022 M.S. in Sustainable Design and Construction Program in Civil and Environmental Engineering Department<br>
-Stanford University<br>
+## Education Experience
 
-2019 - 2020 Exchange Student in GeoSystems Engineering Program in Civil and Environmental Engineering Department<br>
-University of California, Berkeley (One Year)<br>
+2020 - 2022 M.S. in [Sustainable Design and Construction Program](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) in Civil and Environmental Engineering Department<br> Stanford University<br>
 
-2019 B.E. in Civil and Environmental Engineering<br>
-Tongji University
+2019 - 2020 Exchange Student in [GeoSystems Engineering Program](https://ce.berkeley.edu/programs/geo) in Civil and Environmental Engineering Department<br> University of California, Berkeley (One Year)<br>
 
+2019 B.E. in [Civil and Environmental Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm)<br> Tongji University
 
+## Conferences
 
+-   Speaker in the 4th International Conference on Information Technology in Geo-Engineering (4ICITG) organized by Geotechnical Society of Singapore.
+
+> Presentation: "A Long-term Probabilistic Forecasting Approach of TBM Operating Parameters based on Deep Learning." (August 2022, online, <https://www.4iticg.org/4-august-2022>)
+
+-   Speaker in the II International Geo-science Machine Learning Big Data Seminar
+
+> Presentation: "Predicting TBM Performance using Machine Learning: is Surrounding Rock Information Important." (August 2019, Shanghai)

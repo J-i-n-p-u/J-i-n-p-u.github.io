@@ -7,7 +7,6 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
-
 ```
 
 <img src="images/cover_with_blank.png"
@@ -15,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
      style="float: left; margin-right: 10px;" />
 
 
+## About
+I am a graduate student of the Sustainable Design and Construction Program Civil and Environmental Engineering, Stanford University (2020 - 2022). I will finish my MS. under the guidance of Professor Ram Rajagopal in 2022.
 
 
 

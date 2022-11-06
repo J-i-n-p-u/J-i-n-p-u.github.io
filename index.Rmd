@@ -47,19 +47,25 @@ I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction P
 
 ## Research Projects
 
-1.  ![](images/crack_detect.png){align="right" margin="50" width="15%"}[**Computer Vision-based Pavement Distress Detection System**](https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision) (March 2022-Now)
+1.  ![](images/crack_detect.png){align="right" margin="50" width="180"}[**Computer Vision-based Pavement Distress Detection System**](https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision) (March 2022-Now)
+    
+    Key Words: Computer Vision, Crack Detection, Web Development, Business Value, Deep Learning   &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(Python, TensorFlow, [Dash](https://dash.plotly.com/introduction))*</span>
 
     Worked as a research assistant advised by Pooja Jain (V.P. Strategic Innovation in WSP) and [Dr. Martin Fischer](https://profiles.stanford.edu/martin-fischer) (Professor at Stanford).
 
     This is a significant exploration of developing the practical workflow of a vision-based automatic pavement distress detection system and software kit, and I am also responsible for discovering the potential business value of the process. <br><br>
 
 2.  **Pilot Air Quality Analysis in the Bay Area** (Mar 2022 - Now)\
-
-    ![](images/air.png){align="right" margin="50" width="158"} Worked as a research assistant advised by [Derek Ouyang](https://derekouyang.com/) (Research Manager at the [RegLab, Stanford](https://reglab.stanford.edu/)) and [Dr. Gabrielle Wong-Parodi](https://profiles.stanford.edu/209361) (Professor at Stanford).
+    
+    Key Words: Data Manipulation, Time Series Decomposition, Clustering, Regressive Analysis, Community-engaged &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(R, MATLAB)*</span>
+    
+    ![](images/air.png){align="left" margin="50" width="230"} Worked as a research assistant advised by [Derek Ouyang](https://derekouyang.com/) (Research Manager at the [RegLab, Stanford](https://reglab.stanford.edu/)) and [Dr. Gabrielle Wong-Parodi](https://profiles.stanford.edu/209361) (Professor at Stanford).
 
     This community-engaged pilot study aims to improve adaptation to wildfire smoke and extreme heat in vulnerable communities. I am responsible for characterizing these communities' air quality and exploring their human-induced and environment-induced influence on it. The team I led characterized the relationship between indoor and outdoor air quality with a spike lag model and verified it by actual monitoring data, which will be a vital contribution to our new journal paper.
 
 3.  **PigSense: Structural Vibration-based Activity and Health Monitoring System for Pigs** (Jan 2022 - Sept 2022)\
+
+    Key Words: Signal Processing, Classification, Machine Learning  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(MATLAB, Python, scikit-learn)*</span>
 
     ![](images/pig.png){align="right" margin="50" width="158"} Worked as a researcher advised by [Dr. Hae Young Noh](https://profiles.stanford.edu/hae-young-noh?releaseVersion=9.11.0) (Professor at Stanford) in Stanford [Structures as Sensors Lab](https://noh-lab.stanford.edu/)
 
@@ -67,10 +73,72 @@ I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction P
 
 4.  **Long term probability prediction platform of urban water consumption** (Oct 2020 - Sept 2021)\
 
-    ![](images/water_consumption.png){align="right" margin="50" width="190"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
+    Key Words: Time Series, Probabilistic Prediction, DeepAR  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(Python,  [GluonTS](https://ts.gluon.ai/stable/))*</span>
+    
+    ![](images/water_consumption.png){align="left" margin="50" width="190"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
 
     This was a practical and valuable project to build an intelligent diagnosis, risk reasoning and decision support system for municipal facilities. I developed a water consumption probability prediction model based on a deep autoregressive model (DeepAR) independently, and the model has been partially integrated into the Shanghai Smart Intelligent Platform to predict daily water consumption and provide pipe burst early warning services.
 
-5.  **Tunnel Boring Machine (TBM) Operation Parameters Prediction** (Jan 2019 - Sept 2019)\
+5.  **Tunnel Boring Machine (TBM) Operation Parameters Prediction** (Jan 2019 - Sept 2019)
 
-    ![](images/tbm.gif){align="right" margin="50" width="158"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University) The project aims to predict TBM operation parameters based on its historical data, promoting safe and efficient tunneling construction of TBM. I independently developed TBM parameters and geological prediction model based on Long Short-Term Memory (LSTM) network , and won the National Third Place in the data mining competition organized by the Chinese Society of Rock Mechanics and Engineering.
+    Key Words: TBM, Parameter Prediction, LSTM, Data Augmentation  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(Python, Keras)*</span>
+    
+    ![](images/tbm.gif){align="right" margin="50" width="158"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
+
+    The project aims to predict TBM operation parameters based on its historical data, promoting safe and efficient tunneling construction of TBM. I independently developed TBM parameters and geological prediction model based on Long Short-Term Memory (LSTM) network , and won the National Third Place in the data mining competition organized by the Chinese Society of Rock Mechanics and Engineering.
+
+6. **Battery Lifetime Prediction with Limited Cycle Data** (Sept 2020 - Dec 2020)
+
+    Key Words: Battery Lifetime Prediction, CNN, Bi-LSTM, Confidence Interval  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(Python,  TensorFlow, PyTorch)*</span>.
+
+    ![](images/battery.png){align="left" margin="50" width="200"} Accurately predicting the remaining useful lifetime of batteries is critical for accelerating technological development and creating a paradigm shift in battery usage. Data-driven approaches,based on large datasets, provide a physical-model agnostic way to predict the health status of batteries with high accuracy. However, most datadriven methods on battery life prediction often rely on features extracted from a hundred cycles worth of data for a given cell, making it computationally inefficient and incompatible with on-board application. 
+
+    The course project (CS 329P [Practical Machine Learning](https://c.d2l.ai/stanford-cs329p/)) applied machine-learning models, including linear regression, random forest regression, convolutional neural networks, and recurrent neural networks to make predictions on cell life. Our best model achieve a 7.5% prediction error given the data of only 5 cycles.
+
+7.  **[Sustainable Urban System Projects](https://github.com/J-i-n-p-u/Sustainable-Urban-System#sustainable-urban-systems)** (Oct 2021 - June 2022)\
+
+    Key Words: Data Manipulation and Visualization, Geospatial Data,    Census Data, Equity analysis, Monte Carlo simulations, Regression, Causality Analysis, Web Application  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(R, [Shiny](https://shiny.rstudio.com/))*</span>.
+    
+    The Sustainable Urban Systems (Stanford CEE 218, [Shaping the Future of the Bay Area](http://bay.stanford.edu/)) emphasis merges traditional data analytics with complex systems analysis to better inform decisions around the wicked problems of urban development like urban [land use](https://github.com/J-i-n-p-u/Sustainable-Urban-System#land-use), mobility, sustainability and [hazard analysis](https://github.com/J-i-n-p-u/Sustainable-Urban-System#hazard-analysis).
+
+8. **[Machine Learning Contest: Infrared Spectrum Classification](https://github.com/J-i-n-p-u/ML-Contests-Infrared-spectrum-classification#ml-contests-infrared-spectrum-classification)** (July 2022)\
+
+    Key Words: Infrared Spectrum Classification, Machine Learning  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">*(Python, [AutoGluon](https://auto.gluon.ai/stable/index.html))*</span>.
+    
+    The Near Infrared Spectroscopy Branch of the China Instrument Society holds the data modeling contest. The organizer provides a set of near-infrared spectral data from the actual application scenario. Different data preprocessing technologies (e.g. PCA, normalization) and machine learning models (AutoGluon) were tried for the unfrared spectrum classification problem.
+    
+## Honors
+
+***Stanford University***
+
+&nbsp;&nbsp;&nbsp;&nbsp;2020-2022 Outstanding Project of SFBI <br>
+
+***Tongji University***
+
+&nbsp;&nbsp;&nbsp;&nbsp;2017-2020 Outstanding Graduates in Shanghai (Top 5% of 220,000 students)
+
+&nbsp;&nbsp;&nbsp;&nbsp;The First Prize Merit-Scholarship of Tongji University (Top 5% of 400 Students)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Shanghai Scholarship (Top 5% of 220,000 students)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Excellent Students of Tongji University (Top 3% of 4000 students)
+
+&nbsp;&nbsp;&nbsp;&nbsp;The Second Prize of Structure Design and Model Competition 
+
+&nbsp;&nbsp;&nbsp;&nbsp;National College Students' Mathematics Competition 
+2016-2017 The Second Prize of Shanghai Division
+
+&nbsp;&nbsp;&nbsp;&nbsp;National College Students' Mathematical Modeling Competition
+2016-2017 The Third Prize in the Shanghai Division
+
+## Internship
+
+**Shanghai Shentong Metro Group** (Jun 2019-Aug 2019)
+
+Subway Monitoring Intern
+
+This was an interesting practical expedition to assist in monitoring and analyzing the subway deformation and settlement near an ultra-deep foundation pit (Xuhui Center, Shanghai). I processed and visualized the subway deformation monitoring data based on python and proposed corresponding corrective measures to the construction unit.
+
+## 
+
+

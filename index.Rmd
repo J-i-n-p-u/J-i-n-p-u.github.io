@@ -47,9 +47,13 @@ I am a graduate student of the [Sustainable Design and Construction Program](htt
 
 ## Research Projects
 
-1.  [Computer Vision-based Pavement Distress Detection System](<https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision>) (March 2022-Now)\
-    Worked as a research assistant advised by Pooja Jain (V.P. Strategic Innovation in WSP) and [Dr. Martin Fischer] (<https://profiles.stanford.edu/martin-fischer>) (Professor at Stanford).
+1.  ![](images/crack_detect.png){align="right" margin="50" width="15%"}[Computer Vision-based Pavement Distress Detection System](https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision) (March 2022-Now)\
 
-    This is a significant exploration of developing the practical workflow of a vision-based automatic pavement distress detection system and software kit, and I am also responsible for discovering the potential business value of the process.
+    Worked as a research assistant advised by Pooja Jain (V.P. Strategic Innovation in WSP) and [[Dr. Martin Fischer](https://profiles.stanford.edu/martin-fischer)] (Professor at Stanford).
 
-2.  Aire
+    This is a significant exploration of developing the practical workflow of a vision-based automatic pavement distress detection system and software kit, and I am also responsible for discovering the potential business value of the process. <br><br>
+
+2.  Pilot Air Quality Analysis in the Bay Area (Mar 2022 - Now)\
+    Worked as a research assistant advised by [Derek Ouyang](https://derekouyang.com/) (Research Manager at the [RegLab, Stanford](https://reglab.stanford.edu/)) and [Dr. Gabrielle Wong-Parodi](https://profiles.stanford.edu/209361).
+
+    This community-engaged pilot study aims to improve adaptation to wildfire smoke and extreme heat in vulnerable communities. I am responsible for characterizing these communities' air quality and exploring their human-induced and environment-induced influence on it. The team I led characterized the relationship between indoor and outdoor air quality with a spike lag model and verified it by actual monitoring data, which will be a vital contribution to our new journal paper.

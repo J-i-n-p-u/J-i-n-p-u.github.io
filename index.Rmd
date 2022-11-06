@@ -33,10 +33,23 @@ I am a graduate student of the [Sustainable Design and Construction Program](htt
 
 ## Conferences
 
--   Speaker in the 4th International Conference on Information Technology in Geo-Engineering (4ICITG) organized by Geotechnical Society of Singapore.
+-   Speaker in the 4th International Conference on Information Technology in Geo-Engineering (4ICITG) organized by Geotechnical Society of Singapore. Presentation: "***A Long-term Probabilistic Forecasting Approach of TBM Operating Parameters based on Deep Learning.***" (August 2022, online, <https://www.4iticg.org/4-august-2022>)
 
-> Presentation: "A Long-term Probabilistic Forecasting Approach of TBM Operating Parameters based on Deep Learning." (August 2022, online, <https://www.4iticg.org/4-august-2022>)
+-   Speaker in the II International Geo-science Machine Learning Big Data Seminar. Presentation: "***Predicting TBM Performance using Machine Learning: is Surrounding Rock Information Important.***" (August 2019, Shanghai)
 
--   Speaker in the II International Geo-science Machine Learning Big Data Seminar
+## Publications
 
-> Presentation: "Predicting TBM Performance using Machine Learning: is Surrounding Rock Information Important." (August 2019, Shanghai)
+1.  " A LSTM-based model for TBM performance prediction and the effect of rock mass grade on prediction accuracy " (China Civil Engineering Journal, first author, accepted)
+
+2.  "PigSense: Vibration-based Activity and Health Monitoring System for Pigs" (ACM Journals, co-author, in review)
+
+3.  "Improving adaptation to wildfire smoke and extreme heat in vulnerable communities: Evidence from a pilot study in the San Francisco Bay Area" (Environmental Research Letters, contributor, ready to submit)
+
+## Research Projects
+
+1.  [Computer Vision-based Pavement Distress Detection System](<https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision>) (March 2022-Now)\
+    Worked as a research assistant advised by Pooja Jain (V.P. Strategic Innovation in WSP) and [Dr. Martin Fischer] (<https://profiles.stanford.edu/martin-fischer>) (Professor at Stanford).
+
+    This is a significant exploration of developing the practical workflow of a vision-based automatic pavement distress detection system and software kit, and I am also responsible for discovering the potential business value of the process.
+
+2.  Aire

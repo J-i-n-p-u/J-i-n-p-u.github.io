@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
 ```
 ## About
 
-I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction Program](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) in the Civil and Environmental Engineering Department at Stanford University (2020 - 2022). My research interests lie in applying data-driven methods and Artificial Intelligence (AI) to Architecture Engineering and Construction (AEC) to help us create smart and sustainable infrastructures and living environments.
+I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction Program](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) of the Civil and Environmental Engineering Department at Stanford University (2020 - 2022). My research interests lie in applying data-driven methods and Artificial Intelligence (AI) to Architecture Engineering and Construction (AEC) to help us create smart and sustainable infrastructures and living environments.
 
 ## Education Experience
 
@@ -63,7 +63,7 @@ I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction P
 
     This is a significant exploration of developing the practical workflow of a vision-based automatic pavement distress detection system and software kit, and I am also responsible for discovering the potential business value of the process. <br><br>
 
-2.  **Pilot Air Quality Analysis in the Bay Area** (Mar 2022 - Now)\
+2.  **[Pilot Air Quality Analysis in the Bay Area](https://github.com/J-i-n-p-u/Pilot-Air-Quality-Analysis-in-the-Bay-Area#pilot-air-quality-analysis-in-the-bay-area)** (Mar 2022 - Now)\
 
     Key Words: Data Manipulation, Time Series Decomposition, Clustering, Regressive Analysis, Community-engaged     [*(R, MATLAB)*]{style="color:green"}
 
@@ -105,11 +105,18 @@ I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction P
 
 7.  [**Sustainable Urban System Projects**](https://github.com/J-i-n-p-u/Sustainable-Urban-System#sustainable-urban-systems) (Oct 2021 - June 2022)\
 
-    Key Words: Data Manipulation and Visualization, Geospatial Data, Census Data, Equity analysis, Monte Carlo simulations, Regression, Causality Analysis, Web Application     [*(R, [Shiny](https://shiny.rstudio.com/))*]{style="color:green"}.
+    Key Words: Data Manipulation and Visualization, Geospatial Data, Census Data, Equity analysis, Monte Carlo simulations, Regression, Causality Analysis, Web Application     [*(R, [Shiny](https://shiny.rstudio.com/))*]{style="color:green"}
 
     The Sustainable Urban Systems (Stanford CEE 218, [Shaping the Future of the Bay Area](http://bay.stanford.edu/)) emphasis merges traditional data analytics with complex systems analysis to better inform decisions around the wicked problems of urban development like urban [land use](https://github.com/J-i-n-p-u/Sustainable-Urban-System#land-use), mobility, sustainability and [hazard analysis](https://github.com/J-i-n-p-u/Sustainable-Urban-System#hazard-analysis).
 
-8.  [**Machine Learning Contest: Infrared Spectrum Classification**](https://github.com/J-i-n-p-u/ML-Contests-Infrared-spectrum-classification#ml-contests-infrared-spectrum-classification) (July 2022)\
+8. **Fortuna Cools Life Cycle Assessment**\
+
+    Key Words: Life Cycle Assessment, Sensitivity Analysis     [*(R, [SimaPro](https://simapro.com/))*]{style="color:green"}
+
+    ![](images/lca.png){align="left" margin="50" width="300"} Fortuna Cools (Fortuna) was founded in 2018 with the goal of creating an affordable and environmentally sustainable option for coolers for fishermen. To date, they have operated in the Philippines, producing coolers made in large part of coconut husk, a common waste product. The coolers are intended as an alternative for expanded polystyrene (EPS) coolers with a usable life of just two weeks, or as alternatives to reusable polyurethane coolers that are often too expensive to be a feasible option for fishermen. Stanford team and Fortuna team worked together and conducted a formal life cycle assessment of Fortuna coolers. We determined that the Fortuna cooler life cycle is associated with drastically lower greenhouse gas emissions and is comparable to or has slightly higher emissions than EPS coolers in several impact categories. The capability of coconut husks to be degraded and converted into a biodegradable compost and fertilizer minimizes the energy requirement towards the end-of-life disposal; the ability to compost the Fortuna cooler provides additional benefit over EPS
+
+
+9.  [**Machine Learning Contest: Infrared Spectrum Classification**](https://github.com/J-i-n-p-u/ML-Contests-Infrared-spectrum-classification#ml-contests-infrared-spectrum-classification) (July 2022)\
 
     ![](images/pca_result.png){align="right" margin="50" width="200"} Key Words: Infrared Spectrum Classification, Machine Learning     [*(Python, [AutoGluon](https://auto.gluon.ai/stable/index.html))*]{style="color:green"}.
 

@@ -37,7 +37,7 @@ I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction P
 
     The conference was organized by Geotechnical Society of Singapore in August 2022.
 
-    Presentation: "***A Long-term Probabilistic Forecasting Approach of TBM Operating Parameters based on Deep Learning.***"
+    Presentation: "***[A Long-term Probabilistic Forecasting Approach of TBM Operating Parameters based on Deep Learning](https://github.com/J-i-n-p-u/Long-term-Probabilistic-Forecasting-of-TBM-Operating-Parameters#long-term-probabilistic-forecasting-of-tbm-operating-parameters)***"  ([video](https://drive.google.com/file/d/120fCDxok1N5_AgnAPHnvCo-gy0Vtct6B/view?usp=sharing), [slides](https://github.com/J-i-n-p-u/Long-term-Probabilistic-Forecasting-of-TBM-Operating-Parameters/blob/main/A%20Long-term%20Probabilistic%20Forecasting%20Approach%20of%20TBM%20Operating%20Parameters%20based%20on%20Deep%20Learning.pdf), [code](https://github.com/J-i-n-p-u/Long-term-Probabilistic-Forecasting-of-TBM-Operating-Parameters/tree/main/Probabilistic%20Forecasting%20Model))
 
 2.  Speaker in the [II International Geo-science Machine Learning Big Data Seminar](http://ismlg-lille2020.com/wp-content/uploads/2019/12/2nd-MLBig-Data-workshop-Program.pdf).
 
@@ -69,7 +69,7 @@ I am Jinpu Cao, a graduate student of the [Sustainable Design and Construction P
 
     ![](images/air.png){align="left" margin="50" width="230"} Worked as a research assistant advised by [Derek Ouyang](https://derekouyang.com/) (Research Manager at the [RegLab, Stanford](https://reglab.stanford.edu/)) and [Dr. Gabrielle Wong-Parodi](https://profiles.stanford.edu/209361) (Professor at Stanford).
 
-    This community-engaged pilot study aims to improve adaptation to wildfire smoke and extreme heat in vulnerable communities. I am responsible for characterizing these communities' air quality and exploring their human-induced and environment-induced influence on it. The team I led characterized the relationship between indoor and outdoor air quality with a spike lag model and verified it by actual monitoring data, which will be a vital contribution to our new journal paper.
+    This community-engaged pilot study aims to improve adaptation to wildfire smoke and extreme heat in vulnerable communities. I am responsible for characterizing these communities' air quality and exploring their human-induced and environment-induced influence on it. Our team characterized the relationship between indoor and outdoor air quality with a spike lag model and verified it by actual monitoring data, which will be a vital contribution to our new journal paper.
 
 3.  **PigSense: Structural Vibration-based Activity and Health Monitoring System for Pigs** (Jan 2022 - Sept 2022)\
 

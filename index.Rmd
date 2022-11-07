@@ -55,7 +55,7 @@ I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction P
 
 ## Research Projects
 
-1.  ![](images/crack_detect.png){align="right" margin="50" width="180"}[**Computer Vision-based Pavement Distress Detection System**](https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision) (March 2022-Now)
+1.  ![](images/crack_detect.png){align="right" margin="50" width="180"}[**Computer Vision-based Pavement Distress Detection System**](https://github.com/J-i-n-p-u/Pavement-Crack-Detection-based-on-Computer-Vision#pavement-crack-detection-based-on-computer-vision) (March 2022-Now, Stanford University)
 
     Key Words: Computer Vision, Crack Detection, Web Development, Business Value, Deep Learning     [*(Python, TensorFlow, [Dash](https://dash.plotly.com/introduction))*]{style="color:green"}
 
@@ -63,7 +63,7 @@ I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction P
 
     This is a significant exploration of developing the practical workflow of a vision-based automatic pavement distress detection system and software kit, and I am also responsible for discovering the potential business value of the process. <br><br>
 
-2.  **[Pilot Air Quality Analysis in the Bay Area](https://github.com/J-i-n-p-u/Pilot-Air-Quality-Analysis-in-the-Bay-Area#pilot-air-quality-analysis-in-the-bay-area)** (Mar 2022 - Now)\
+2.  **[Pilot Air Quality Analysis in the Bay Area](https://github.com/J-i-n-p-u/Pilot-Air-Quality-Analysis-in-the-Bay-Area#pilot-air-quality-analysis-in-the-bay-area)** (Mar 2022 - Now, Stanford University)\
 
     Key Words: Data Manipulation, Time Series Decomposition, Clustering, Regressive Analysis, Community-engaged     [*(R, MATLAB)*]{style="color:green"}
 
@@ -71,7 +71,7 @@ I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction P
 
     This community-engaged pilot study aims to improve adaptation to wildfire smoke and extreme heat in vulnerable communities. I am responsible for characterizing these communities' air quality and exploring their human-induced and environment-induced influence on it. Our team characterized the relationship between indoor and outdoor air quality with a spike lag model and verified it by actual monitoring data, which will be a vital contribution to our new journal paper.
 
-3.  **PigSense: Structural Vibration-based Activity and Health Monitoring System for Pigs** (Jan 2022 - Sept 2022)\
+3.  **PigSense: Structural Vibration-based Activity and Health Monitoring System for Pigs** (Jan 2022 - Sept 2022, Stanford University)\
 
     Key Words: Signal Processing, Classification, Machine Learning     [*(MATLAB, Python, scikit-learn)*]{style="color:green"}
 
@@ -79,23 +79,19 @@ I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction P
 
     This project introduces the first system to track animals using structural vibrations, and the first system for automated characterization of piglets' group activities, including nursing, sleeping and active times. I have realized the classification of piglet group activities using structural vibration data on machine learning methods.
 
-4.  **Long term probability prediction platform of urban water consumption** (Oct 2020 - Sept 2021)\
+4.  [**Sustainable Urban System Projects**](https://github.com/J-i-n-p-u/Sustainable-Urban-System#sustainable-urban-systems) (Oct 2021 - June 2022, Stanford University)\
 
-    Key Words: Time Series, Probabilistic Prediction, DeepAR     [*(Python, [GluonTS](https://ts.gluon.ai/stable/))*]{style="color:green"}
+    Key Words: Data Manipulation and Visualization, Geospatial Data, Census Data, Equity analysis, Monte Carlo simulations, Regression, Causality Analysis, Web Application     [*(R, [Shiny](https://shiny.rstudio.com/))*]{style="color:green"}
 
-    ![](images/water_consumption.png){align="left" margin="50" width="190"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
+    The Sustainable Urban Systems (Stanford CEE 218, [Shaping the Future of the Bay Area](http://bay.stanford.edu/)) emphasis merges traditional data analytics with complex systems analysis to better inform decisions around the wicked problems of urban development like urban [land use](https://github.com/J-i-n-p-u/Sustainable-Urban-System#land-use), mobility, sustainability and [hazard analysis](https://github.com/J-i-n-p-u/Sustainable-Urban-System#hazard-analysis).
 
-    This was a practical and valuable project to build an intelligent diagnosis, risk reasoning and decision support system for municipal facilities. I developed a water consumption probability prediction model based on a deep autoregressive model (DeepAR) independently, and the model has been partially integrated into the Shanghai Smart Intelligent Platform to predict daily water consumption and provide pipe burst early warning services.
+5. [**Fortuna Cools Life Cycle Assessment**](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment#fortuna-cools-life-cycle-assessment)\ (Sept 2020 - Dec 2020, Stanford University)
 
-5.  **Tunnel Boring Machine (TBM) Operation Parameters Prediction** (Jan 2019 - Sept 2019)
+    Key Words: Life Cycle Assessment, Sensitivity Analysis     [*(R, [SimaPro](https://simapro.com/))*]{style="color:green"}
 
-    Key Words: TBM, Parameter Prediction, LSTM, Data Augmentation     [*(Python, Keras)*]{style="color:green"}
-
-    ![](images/tbm.gif){align="right" margin="50" width="158"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
-
-    The project aims to predict TBM operation parameters based on its historical data, promoting safe and efficient tunneling construction of TBM. I independently developed TBM parameters and geological prediction model based on Long Short-Term Memory (LSTM) network , and won the National Third Place in the data mining competition organized by the Chinese Society of Rock Mechanics and Engineering.
-
-6.  **Battery Lifetime Prediction with Limited Cycle Data** (Sept 2020 - Dec 2020)
+    ![](images/lca.png){align="left" margin="50" width="300"} Fortuna Cools (Fortuna) was founded in 2018 with the goal of creating an affordable and environmentally sustainable option for coolers for fishermen. To date, they have operated in the Philippines, producing coolers made in large part of coconut husk, a common waste product. The coolers are intended as an alternative for expanded polystyrene (EPS) coolers with a usable life of just two weeks, or as alternatives to reusable polyurethane coolers that are often too expensive to be a feasible option for fishermen. Stanford team and Fortuna team worked together and conducted a formal life cycle assessment of Fortuna coolers. We determined that the Fortuna cooler life cycle is associated with drastically lower greenhouse gas emissions and is comparable to or has slightly higher emissions than EPS coolers in several impact categories. The capability of coconut husks to be degraded and converted into a biodegradable compost and fertilizer minimizes the energy requirement towards the end-of-life disposal; the ability to compost the Fortuna cooler provides additional benefit over EPS. ([Poster](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/blob/main/Poster.pdf), [Report](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/blob/main/Fortuna%20Cools%20Life%20Cycle%20Assessment%20Report.pdf))
+    
+6.  **Battery Lifetime Prediction with Limited Cycle Data** (Sept 2020 - Dec 2020, Stanford University)
 
     Key Words: Battery Lifetime Prediction, CNN, Bi-LSTM, Confidence Interval     [*(Python, TensorFlow, PyTorch)*]{style="color:green"}.
 
@@ -103,20 +99,23 @@ I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction P
 
     The course project (CS 329P [Practical Machine Learning](https://c.d2l.ai/stanford-cs329p/)) applied machine-learning models, including linear regression, random forest regression, convolutional neural networks, and recurrent neural networks to make predictions on cell life. Our best model achieve a 7.5% prediction error given the data of only 5 cycles.
 
-7.  [**Sustainable Urban System Projects**](https://github.com/J-i-n-p-u/Sustainable-Urban-System#sustainable-urban-systems) (Oct 2021 - June 2022)\
+7.  **[Long term probability prediction platform of urban water consumption](https://github.com/J-i-n-p-u/Long-term-probability-prediction-platform-of-urban-water-consumption#long-term-probability-prediction-platform-of-urban-water-consumption)** (Oct 2020 - Sept 2021, Tongji University)\
 
-    Key Words: Data Manipulation and Visualization, Geospatial Data, Census Data, Equity analysis, Monte Carlo simulations, Regression, Causality Analysis, Web Application     [*(R, [Shiny](https://shiny.rstudio.com/))*]{style="color:green"}
+    Key Words: Time Series, Probabilistic Prediction, DeepAR     [*(Python, [GluonTS](https://ts.gluon.ai/stable/))*]{style="color:green"}
 
-    The Sustainable Urban Systems (Stanford CEE 218, [Shaping the Future of the Bay Area](http://bay.stanford.edu/)) emphasis merges traditional data analytics with complex systems analysis to better inform decisions around the wicked problems of urban development like urban [land use](https://github.com/J-i-n-p-u/Sustainable-Urban-System#land-use), mobility, sustainability and [hazard analysis](https://github.com/J-i-n-p-u/Sustainable-Urban-System#hazard-analysis).
+    ![](images/water_consumption.png){align="left" margin="50" width="300"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
 
-8. [**Fortuna Cools Life Cycle Assessment**](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment#fortuna-cools-life-cycle-assessment)\ (Sept 2020 - Dec 2020)
+    This was a practical and valuable project to build an intelligent diagnosis, risk reasoning and decision support system for municipal facilities. I developed a water consumption probability prediction model based on a deep autoregressive model (DeepAR) independently, and the model has been partially integrated into the Shanghai Smart Intelligent Platform to predict daily water consumption and provide pipe burst early warning services. ([Report](https://github.com/J-i-n-p-u/Long-term-probability-prediction-platform-of-urban-water-consumption/blob/main/Real_time_Water_Consumption_Prediction.pdf), [Slides](https://github.com/J-i-n-p-u/Long-term-probability-prediction-platform-of-urban-water-consumption/blob/main/Real-time%20Water%20Consumption%20Prediction%20Based%20on%20Deep%20Learning.pdf), [Codes](https://github.com/J-i-n-p-u/Long-term-probability-prediction-platform-of-urban-water-consumption))
 
-    Key Words: Life Cycle Assessment, Sensitivity Analysis     [*(R, [SimaPro](https://simapro.com/))*]{style="color:green"}
+8.  **Tunnel Boring Machine (TBM) Operation Parameters Prediction** (Jan 2019 - Sept 2019, Tongji University)
 
-    ![](images/lca.png){align="left" margin="50" width="300"} Fortuna Cools (Fortuna) was founded in 2018 with the goal of creating an affordable and environmentally sustainable option for coolers for fishermen. To date, they have operated in the Philippines, producing coolers made in large part of coconut husk, a common waste product. The coolers are intended as an alternative for expanded polystyrene (EPS) coolers with a usable life of just two weeks, or as alternatives to reusable polyurethane coolers that are often too expensive to be a feasible option for fishermen. Stanford team and Fortuna team worked together and conducted a formal life cycle assessment of Fortuna coolers. We determined that the Fortuna cooler life cycle is associated with drastically lower greenhouse gas emissions and is comparable to or has slightly higher emissions than EPS coolers in several impact categories. The capability of coconut husks to be degraded and converted into a biodegradable compost and fertilizer minimizes the energy requirement towards the end-of-life disposal; the ability to compost the Fortuna cooler provides additional benefit over EPS. ([Poster](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/blob/main/Poster.pdf), [Report](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/blob/main/Fortuna%20Cools%20Life%20Cycle%20Assessment%20Report.pdf))
+    Key Words: TBM, Parameter Prediction, LSTM, Data Augmentation     [*(Python, Keras)*]{style="color:green"}
 
+    ![](images/tbm.gif){align="right" margin="50" width="158"} Worked as a research assistant advised by [Dr. Fang Liu](https://geotec.tongji.edu.cn/lf/main.psp) (Professor at Tongji University)
 
-9.  [**Machine Learning Contest: Infrared Spectrum Classification**](https://github.com/J-i-n-p-u/ML-Contests-Infrared-spectrum-classification#ml-contests-infrared-spectrum-classification) (July 2022)\
+    The project aims to predict TBM operation parameters based on its historical data, promoting safe and efficient tunneling construction of TBM. I independently developed TBM parameters and geological prediction model based on Long Short-Term Memory (LSTM) network , and won the National Third Place in the data mining competition organized by the Chinese Society of Rock Mechanics and Engineering.
+    
+9.  [**Machine Learning Contest: Infrared Spectrum Classification**](https://github.com/J-i-n-p-u/ML-Contests-Infrared-spectrum-classification#ml-contests-infrared-spectrum-classification) (July 2022, Stanford University)\
 
     ![](images/pca_result.png){align="right" margin="50" width="200"} Key Words: Infrared Spectrum Classification, Machine Learning     [*(Python, [AutoGluon](https://auto.gluon.ai/stable/index.html))*]{style="color:green"}.
 

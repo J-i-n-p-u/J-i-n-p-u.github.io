@@ -83,7 +83,9 @@ I am Jinpu Cao, a graduate student in the [Sustainable Design and Construction P
 
     Key Words: Data Manipulation and Visualization, Geospatial Data, Census Data, Equity analysis, Monte Carlo simulations, Regression, Causality Analysis, Web Application     [*(R, [Shiny](https://shiny.rstudio.com/))*]{style="color:green"}
 
-    The Sustainable Urban Systems (Stanford CEE 218, [Shaping the Future of the Bay Area](http://bay.stanford.edu/)) emphasis merges traditional data analytics with complex systems analysis to better inform decisions around the wicked problems of urban development like urban [land use](https://github.com/J-i-n-p-u/Sustainable-Urban-System#land-use), mobility, sustainability and [hazard analysis](https://github.com/J-i-n-p-u/Sustainable-Urban-System#hazard-analysis).
+    The Sustainable Urban Systems (Stanford CEE 218, [Shaping the Future of the Bay Area](http://bay.stanford.edu/), advised by [Derek Ouyang](https://derekouyang.com/) and [Dr. Jenny Suckale](https://sigma.stanford.edu/)) emphasis merges traditional data analytics with complex systems analysis to better inform decisions around the wicked problems of urban development like urban [land use](https://github.com/J-i-n-p-u/Sustainable-Urban-System#land-use), [hazard analysis](https://github.com/J-i-n-p-u/Sustainable-Urban-System#hazard-analysis), [amenity accessibility for communities](https://j-i-n-p-u.github.io/Sustainable-Urban-System/HTML/Complete_Community.html), [assessment of the equity implications of air quality](https://j-i-n-p-u.github.io/Sustainable-Urban-System/HTML/Assessment%20of%20the%20Equity%20Implications%20of%20Air%20Quality%20in%20San%20Mateo%20County.html) and [Analyze Emission based on Routing Data](https://j-i-n-p-u.github.io/Sustainable-Urban-System/HTML/Analyze%20Emission%20based%20on%20Routing%20Data.html).
+
+    ![](images/sus.png)
 
 5. [**Fortuna Cools Life Cycle Assessment**](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment#fortuna-cools-life-cycle-assessment)\ (Sept 2020 - Dec 2020, Stanford University)
 

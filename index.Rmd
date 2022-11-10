@@ -172,13 +172,13 @@ This was an interesting practical expedition to assist in monitoring and analyzi
 
 ## CV & Bio
 
-Download my [CV](https://github.com/J-i-n-p-u/J-i-n-p-u.github.io/raw/main/JinpuCao_resume_.pdf) here. Last updated Nov 2022.
+Download my [CV](https://github.com/J-i-n-p-u/J-i-n-p-u.github.io/blob/main/Jinpu_Cao_Resume.pdf) here. Last updated Nov 2022.
 
 Email: [jinpu\@stanford.edu](mailto:jinpu@stanford.edu){.email}
 
 GitHub: <https://github.com/J-i-n-p-u>
 
-Twitter: @Jinpu_C
+Twitter: [\@Jinpu_C](https://twitter.com/Jinpu_C)
 
 Linkedin: <https://www.linkedin.com/in/jinpu-cao-a003bb1b6>
 
